@@ -19,10 +19,6 @@ export default class AutoComplete extends React.Component {
     offset: PropTypes.number
   }
 
-
-  checkVisible() {
-  }
-
   componentDidMount() {
   }
 
