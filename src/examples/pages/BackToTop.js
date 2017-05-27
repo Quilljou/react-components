@@ -24,6 +24,9 @@ export default class BackToTopPage extends Component {
           </p>
         </div>
         <BackToTop offset={100}></BackToTop>
+        <BackToTop offset={120}>
+          <div>up</div>
+        </BackToTop>
       </div>
     );
   }
